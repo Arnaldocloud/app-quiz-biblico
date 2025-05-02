@@ -1,5 +1,6 @@
 {
   "expo": {
+    "plugins": ["expo-image-picker"],
     "name": "app-quiz-biblico",
     "slug": "app-quiz-biblico",
     "version": "1.0.0",
