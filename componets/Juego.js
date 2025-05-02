@@ -25,7 +25,7 @@ const preguntas = [
 {
     pregunta: "¿Cuál fue el símbolo del pacto de Dios con Noé después del diluvio?",
     respuestas: ["Arcoiris", "Estrella", "Cruz", "Estrella de David"],
-    respuestaCorrecta: "Arco iris"
+    respuestaCorrecta: "Arcoiris"
 },
 {
     pregunta: "¿Quién fue la madre de Samuel, el profeta?",
